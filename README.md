@@ -44,7 +44,7 @@ Primary target is for helpdesk and desktop support admins for resetting profiles
 
 ### Authors
 
-* **Tech Guy** - [TechScripts](https://github.com/TechScripts)
+* **Chay** - [ChayScripts](https://github.com/ChayScripts)
 
 ### Contributing
 
